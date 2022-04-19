@@ -8,17 +8,18 @@
 
 .header-footer-color {
   background-color:slategray;
-  background-size: cover;
+ 
   
 }
 
 .logo-left {
   text-align: left
 }
-
+/* body visuals */
 body {
   background-color:papayawhip;
   font-family: arial, helvetica, sans-serif;
+  font-size: 16px;
   color: black;
   
 }
