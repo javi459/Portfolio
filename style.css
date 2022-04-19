@@ -1,0 +1,50 @@
+/*Change background, color, font-family, font-size
+  height, margin, padding, text-align*/
+/*layout  */
+*{
+  margin: 5px;
+  padding:0px;
+}
+
+.header-footer-color {
+  background-color:slategray;
+  background-size: cover;
+  
+}
+
+.logo-left {
+  text-align: left
+}
+
+body {
+  background-color:papayawhip;
+  font-family: arial, helvetica, sans-serif;
+  color: black;
+  
+}
+/*picture size  */
+img {
+  width: 20%;
+  height: 300px;
+}
+.rounded {
+  border-radius: 45%; !important
+  
+}
+p, ol, ul {
+  margin-left: auto;
+  margin-right: auto;
+  width:45%
+}
+
+.center, h2, h3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+}
+.wow {
+  width: 300px;
+}
